@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+
+body {
+    margin-left: 3%;
+    margin-top: 2%;
+    background-color: rgb(22,31,42);
+    text-align: center;
+}
+
+.ui-widget {
+   color: red;
+   text-align: center;
+}
+
+img {
+    max-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#cast {
+    text-align: center;
+    list-style: none;
+}
+
+input {
+    width: 400px;
+}
